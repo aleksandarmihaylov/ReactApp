@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Michal Muller",
+      "age": 25,
+      "foodPreferences": [
+        {
+          "id": 1,
+          "name": "Pasta"
+        },
+        {
+          "id": 2,
+          "name": "Burger"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gintaras Arstikaitis",
+      "age": 22,
+      "foodPreferences": [
+        {
+          "id": 2,
+          "name": "Burger"
+        },
+        {
+          "id": 3,
+          "name": "Chicken"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Aleksandar Yanev",
+      "age": 22,
+      "foodPreferences": [
+        {
+          "id": 1,
+          "name": "Pasta"
+        },
+        {
+          "id": 2,
+          "name": "Burger"
+        },
+        {
+          "id": 4,
+          "name": "Beef Jerky"
+        }
+      ]
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "name": "Pasta"
+    },
+    {
+      "id": 2,
+      "name": "Burger"
+    },
+    {
+      "id": 3,
+      "name": "Chicken"
+    },
+    {
+      "id": 4,
+      "name": "Beef Jerky"
+    }
+  ]
+}
