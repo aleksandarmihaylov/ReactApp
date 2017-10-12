@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Link } from "react-router";
 import Api from "./api";
 import LoadingScreen from "./LoadingScreen";
+import "./App.css";
 
 class App extends Component {
   state = {
